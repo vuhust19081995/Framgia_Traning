@@ -1,7 +1,9 @@
-package com.workspace.retrofitapp;
+package com.workspace.retrofitapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.workspace.retrofitapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
