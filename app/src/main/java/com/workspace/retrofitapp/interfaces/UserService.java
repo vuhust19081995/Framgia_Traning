@@ -1,6 +1,6 @@
 package com.workspace.retrofitapp.interfaces;
 
-import com.workspace.retrofitapp.model.User;
+import com.workspace.retrofitapp.data.model.User;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.workspace.retrofitapp.model;
+package com.workspace.retrofitapp.data.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

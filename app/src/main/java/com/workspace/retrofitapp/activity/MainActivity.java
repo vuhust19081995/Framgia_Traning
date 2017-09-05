@@ -12,7 +12,7 @@ import android.widget.Toast;
 import com.workspace.retrofitapp.R;
 import com.workspace.retrofitapp.adapter.UserAdapter;
 import com.workspace.retrofitapp.interfaces.UserService;
-import com.workspace.retrofitapp.model.User;
+import com.workspace.retrofitapp.data.model.User;
 import com.workspace.retrofitapp.utils.ApiUtils;
 
 import java.util.ArrayList;

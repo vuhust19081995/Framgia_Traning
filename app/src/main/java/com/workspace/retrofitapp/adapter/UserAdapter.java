@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.workspace.retrofitapp.R;
-import com.workspace.retrofitapp.model.User;
+import com.workspace.retrofitapp.data.model.User;
 
 import java.util.ArrayList;
 
